@@ -14,3 +14,5 @@ input { width: 100%; padding: 10px 12px; border: 1px solid #d8dbe6; border-radiu
 .actions { display: flex; gap: 8px; }
 .small { padding: 8px 10px; border-radius: 10px; border: 0; cursor: pointer; color: white; background: #555; }
 .pelicula-item { display: flex; align-content: center; align-items: center; gap: 4px;}
+#addBtn { background: #c0392b; }     /* rojo */
+#deleteBtn { background: #1f6feb; }  /* azul */
