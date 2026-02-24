@@ -16,3 +16,6 @@ input { width: 100%; padding: 10px 12px; border: 1px solid #d8dbe6; border-radiu
 .pelicula-item { display: flex; align-content: center; align-items: center; gap: 4px;}
 #addBtn { background: #c0392b; }     /* rojo */
 #deleteBtn { background: #1f6feb; }  /* azul */
+.btn { font-weight: 700; border-radius: 14px; }
+.small { font-weight: 700; }
+
